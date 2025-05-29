@@ -1,3 +1,1 @@
-Token = "MTM1NDIwMTk4NzcyOTU5MjU5Mg.GhT9LG.fh-nJ1wTHWd41Skngr-EEdcm0VK426Sb0eiw8Y"
-Webhook = "https://discord.com/api/webhooks/1376621980974977107/IK13UiOX3g8REfLDcXMvoct_7NFwuzw7W7HvIa626jzChCvJeBAFDcIh3YFvlKW0ExX1"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/gagautojoiner/refs/heads/main/autojoiner"))()
+
